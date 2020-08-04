@@ -1,0 +1,12 @@
+db4d8abb4deff4e8e5ae7ad61c4c42b5 *DESCRIPTION
+fccbd6591a9f53f7dd8d890c23bea6b4 *LICENSE
+b9a24a867f8807e0f297a7d0297a42e7 *NAMESPACE
+4fe8421473dc561d6bc02c6829e40a16 *NEWS.md
+bc8ff3e73837d6f03c9e0b234781f334 *R/querygkg.R
+d3e8ef72a3677bea322eeeac0c3d9c36 *README.md
+7d6f436b8a393e1d3b2c313c806e57ca *build/vignette.rds
+a61d69247fc2b1eb8e382eddcf22d2a2 *inst/doc/gkgraphR.R
+b89885344fb47edf14f527f8e7ffc0ed *inst/doc/gkgraphR.Rmd
+ce4b50e92dc209f83446149b44f98510 *inst/doc/gkgraphR.html
+1e9e5f6ef7d8aec4b6893f3c79793f33 *man/querygkg.Rd
+b89885344fb47edf14f527f8e7ffc0ed *vignettes/gkgraphR.Rmd
